@@ -210,7 +210,7 @@ In this book we will usually work with ensemble averages.  Unless I specifically
 assume that probabilities are defined by a statistical ensemble, not by an average over time.
 
 
-The Maxwell-Boltzmann Distribution
+The Boltzmann Distribution
 ==================================
 
 There is only so much to say about isolated systems.  Real systems are almost never isolated.  They are embedded in some
@@ -344,7 +344,7 @@ We can now give the probability for A to be in the desired microstate:
     p(E_A) = \frac{e^{-E_A/kT}}{Z}
     :label: maxwell-boltzmann
 
-This is called the *Maxwell-Boltzmann distribution*, and it is probably the single most important equation in this
+This is called the *Boltzmann distribution*, and it is probably the single most important equation in this
 chapter (or possibly even in this entire book).  Maxwell originally derived it in 1860 based on a mechanical model of
 gas molecules.  In the following years it was repeatedly re-derived based on a variety of arguments that extended its
 generality.  As you have seen, it is not in any way specific to gas molecules or classical mechanics.  It is valid for
